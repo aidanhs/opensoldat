@@ -1,3 +1,7 @@
+#! /bin/sh
+# Created on 13.04 lubuntu distro, ymmv
+set -e
+
 sudo apt-get install g++
 sudo apt-get install mesa-common-dev
 sudo apt-get install libglu1-mesa-dev
